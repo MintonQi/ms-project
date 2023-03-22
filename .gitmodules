@@ -1,0 +1,12 @@
+[submodule "common"]
+	path = ms-project-common
+	url = https://github.com/MintonQi/ms-project-common.git
+[submodule "logging"]
+	path = ms-project-logging
+	url = https://github.com/MintonQi/ms-project-logging.git
+[submodule "tools"]
+	path = ms-project-tools
+	url = https://github.com/MintonQi/ms-project-tools.git
+[submodule "system"]
+	path = ms-project-system
+	url = https://github.com/MintonQi/ms-project-system.git
