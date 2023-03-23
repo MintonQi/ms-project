@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-project-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-project-logging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-project-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-project-tools" vcs="Git" />
   </component>
 </project>
